@@ -12,3 +12,5 @@ https://drive.google.com/file/d/1bq8uaCIr0vFSsSiKNPUKJbbmsonAG95R/view?usp=shari
 [lw5.pdf](https://github.com/user-attachments/files/27295713/lw5.pdf)
 
 
+[DAX_QA.pdf](https://github.com/user-attachments/files/27295778/DAX_QA.pdf)
+
